@@ -16,4 +16,5 @@ Explanation:
 650 - 749: Crispy
 750 - above: Very Crispy 
 
-The sharpness value is calculated using the standard deviation of the gradient magnitude calculated by Sobel filters. The sharpness is calculated as the average value of the gradient magnitude. A higher gradient magnitude means higher sharpness.
+The sharpness value is calculated using the standard deviation of the gradient magnitude calculated by Sobel filters. 
+The sharpness is calculated as the average value of the gradient magnitude. A higher gradient magnitude means higher sharpness.
